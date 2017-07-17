@@ -10,4 +10,6 @@ Here I'm Sharing some of the links that useful for the Front-End Devlopment
 4. http://www.initializr.com/
 5. https://codepen.io/
 6. https://css-tricks.com/
+7. http://htmlreference.io/
+8. http://cssreference.io/
 
